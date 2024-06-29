@@ -1,4 +1,4 @@
-# Future Work: Huge Brain Organoid Computing
+# Brain Organoid Computing: Future Directions and Applications
 
 ## Overview
 
