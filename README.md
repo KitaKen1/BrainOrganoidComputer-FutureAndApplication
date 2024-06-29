@@ -33,6 +33,17 @@ This project will apply this brain organoid for a variety of computer tasks!
 4. **Beating Psychological Diseases**: Using brain organoids to understand and develop treatments for psychological diseases. By studying the brain-like structures, researchers can gain insights into mental health conditions and develop new therapeutic approaches.
 
 
+## Future Directions
+
+1. **Develop Code to Utilize Brain Organoid Cloud Services for MNIST Recognition**: Create and optimize code that leverages brain organoid cloud services to recognize and interpret MNIST datasets.
+2. **Create AI YouTuber Using Brain Organoids**: Develop a virtual YouTuber (AI YouTuber) powered by brain organoids, capable of generating content and interacting with viewers in real-time.
+3. **Optimize and Miniaturize MAE Sensors for Brain Organoids**: Focus on the optimization, miniaturization, and parallelization of Multi-Electrode Arrays (MEA) to enhance the interaction with brain organoids.
+4. **Cloud Service for AI Using Brain Organoids**: Develop a cloud-based service that utilizes brain organoids specifically designed for AI applications.
+
+
+
+
+
 ## Contact
 
 **Kenta Kitamura (MD)**  
