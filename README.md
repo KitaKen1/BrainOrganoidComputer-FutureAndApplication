@@ -19,11 +19,6 @@ These brain organoids can be used for a variety of computer tasks!
 4. **Beating Psychological Diseases**: Using brain organoids to understand and develop treatments for psychological diseases.
 5. **Complete AI Tasks**: Achieving advanced AI tasks, potentially leading to Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI).
 
-### Research Highlights
-
-
-## Future Directions
-
 
 ## Contact
 
