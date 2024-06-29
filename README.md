@@ -2,13 +2,10 @@
 
 ## Overview
 
-This project explores the potential of using brain organoids for computing tasks. The goal is to leverage the biological intelligence of brain organoids to perform various computational tasks such as generative tasks, recognition tasks, and robot control.
+
 
 ![Process Diagram](images/process_diagram.png)
-
-1. **Skin Cell**: The process begins with skin cells.
-2. **iPS Cell**: Skin cells are reprogrammed into induced pluripotent stem (iPS) cells.
-3. **Brain Organoid**: iPS cells are then differentiated into brain organoids.
+This project explores the potential of using brain organoids for computing tasks. The goal is to leverage the biological intelligence of brain organoids to perform various computational tasks such as generative tasks, recognition tasks, and robot control.
 
 These brain organoids can be used for a variety of computer tasks!
 
