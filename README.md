@@ -40,9 +40,10 @@ This project will apply this brain organoid for a variety of computer tasks!
 3. **Optimize and Miniaturize MAE Sensors for Brain Organoids**: Focus on the optimization, miniaturization, and parallelization of Multi-Electrode Arrays (MEA) to enhance the interaction with brain organoids.
 4. **Cloud Service for AI Using Brain Organoids**: Develop a cloud-based service that utilizes brain organoids specifically designed for AI applications.
 
+## NEWS
+![Process Diagram](images/brainorganoidtodance.png)
 
-
-
+By using FinalSpark company's site live of brain organoid, and processing by chatGPT and Luma dream machine, dancing image art is got. 
 
 ## Contact
 
