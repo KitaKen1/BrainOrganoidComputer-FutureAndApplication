@@ -9,11 +9,14 @@ This project explores the potential of using brain organoids for computing tasks
 
 These brain organoids can be used for a variety of computer tasks!
 
-## Applications
 
-### Generative Tasks
-### Recognition Tasks
-### Robot Control
+### Potential Applications
+
+1. **Parallel Computing Server & Cloud Computing**: Utilizing brain organoids for large-scale parallel computing and cloud services.
+2. **AI Programming (Cloud, OSS)**: Developing AI programs that leverage the unique capabilities of brain organoids.
+3. **Brain USB (I/O for Brain)**: Creating interfaces that allow direct input and output with brain organoids.
+4. **Beating Psychological Diseases**: Using brain organoids to understand and develop treatments for psychological diseases.
+5. **Complete AI Tasks**: Achieving advanced AI tasks, potentially leading to Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI).
 
 ![Brain Organoid Computing](images/brain_organoid_computing.png)
 
@@ -27,13 +30,6 @@ These brain organoids can be used for a variety of computer tasks!
 
 ![Huge Brain Organoid](images/huge_brain_organoid.png)
 
-### Potential Applications
-
-1. **Parallel Computing Server & Cloud Computing**: Utilizing brain organoids for large-scale parallel computing and cloud services.
-2. **AI Programming (Cloud, OSS)**: Developing AI programs that leverage the unique capabilities of brain organoids.
-3. **Brain USB (I/O for Brain)**: Creating interfaces that allow direct input and output with brain organoids.
-4. **Beating Psychological Diseases**: Using brain organoids to understand and develop treatments for psychological diseases.
-5. **Complete AI Tasks**: Achieving advanced AI tasks, potentially leading to Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI).
 
 ## Contact
 
