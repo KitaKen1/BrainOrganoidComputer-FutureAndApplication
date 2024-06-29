@@ -43,9 +43,3 @@ This project will apply this brain organoid for a variety of computer tasks!
 ![Process Diagram](images/brainorganoidtodance.png)
 
 By using FinalSpark company's site live of brain organoid (https://finalspark.com/live/), and processing by chatGPT and Luma dream machine, dancing image art is got. 
-
-## Contact
-
-**Kenta Kitamura (MD)**  
-PhD Candidate of Information Theory  
-Email: [kitamura.kenta.1988@gmail.com](mailto:kitamura.kenta.1988@gmail.com)
