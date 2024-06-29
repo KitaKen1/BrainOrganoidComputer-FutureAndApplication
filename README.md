@@ -10,7 +10,7 @@ This project explores the potential of using brain organoids for computing tasks
 These brain organoids can be used for a variety of computer tasks!
 
 
-### Potential Applications
+## Potential Applications
 
 ![Huge Brain Organoid](images/huge_brain_organoid.png)
 1. **Parallel Computing Server & Cloud Computing**: Utilizing brain organoids for large-scale parallel computing and cloud services.
