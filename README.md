@@ -3,11 +3,18 @@
 ## Overview
 
 
+This project explores the potential of using brain organoids for computing tasks. Brain organoids are three-dimensional structures grown from stem cells that replicate many features of the human brain. By leveraging the biological intelligence of brain organoids, we aim to perform various computational tasks such as generative tasks, recognition tasks, and robot control.
+
 
 ![Process Diagram](images/process_diagram.png)
-This project explores the potential of using brain organoids for computing tasks. The goal is to leverage the biological intelligence of brain organoids to perform various computational tasks such as generative tasks, recognition tasks, and robot control.
 
-These brain organoids can be used for a variety of computer tasks!
+The process of creating brain organoids involves several steps:
+1. **Skin Cell**: The process begins with skin cells.
+2. **iPS Cell**: Skin cells are reprogrammed into induced pluripotent stem (iPS) cells.
+3. **Brain Organoid**: iPS cells are then differentiated into brain organoids.
+
+This project will apply this brain organoid for a variety of computer tasks!
+
 
 
 ## Potential Applications
