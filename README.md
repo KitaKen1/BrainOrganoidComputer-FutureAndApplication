@@ -42,7 +42,7 @@ This project will apply this brain organoid for a variety of computer tasks!
 ### Brain organoid image to Video ART (June 29, 2024)
 ![Process Diagram](images/brainorganoidtodance.png)
 
-By using FinalSpark company's site live of brain organoid, and processing by chatGPT and Luma dream machine, dancing image art is got. 
+By using FinalSpark company's site live of brain organoid (https://finalspark.com/live/), and processing by chatGPT and Luma dream machine, dancing image art is got. 
 
 ## Contact
 
