@@ -26,11 +26,9 @@ This project will apply this brain organoid for a variety of computer tasks!
    - **Achieving AGI**: By scaling up the size and complexity of brain organoids, we will simulate neural networks that are comparable to the human brain in terms of processing power and efficiency. This involves creating extensive neural connections and optimizing them for various cognitive tasks.
    - **Transitioning to ASI**: Once AGI is achieved, further enhancements will be made by increasing the parallel processing capabilities, integrating advanced learning algorithms, and continually expanding the neural network infrastructure. This will allow the system to surpass human cognitive abilities and achieve ASI.
 
-2. **AI Programming**: Developing AI programs that leverage the unique capabilities of brain organoids, including advanced pattern recognition and decision-making processes.
+2. **Brain USB (I/O for Brain)**: Creating interfaces that allow direct input and output with brain organoids, which could revolutionize how we interact with computational systems.
 
-3. **Brain USB (I/O for Brain)**: Creating interfaces that allow direct input and output with brain organoids, which could revolutionize how we interact with computational systems.
-
-4. **Beating Psychological Diseases**: Using brain organoids to understand and develop treatments for psychological diseases. By studying the brain-like structures, researchers can gain insights into mental health conditions and develop new therapeutic approaches.
+3. **Beating Psychological Diseases**: Using brain organoids to understand and develop treatments for psychological diseases. By studying the brain-like structures, researchers can gain insights into mental health conditions and develop new therapeutic approaches.
 
 
 ## Future Directions
