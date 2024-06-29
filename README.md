@@ -20,11 +20,17 @@ This project will apply this brain organoid for a variety of computer tasks!
 ## Potential Applications
 
 ![Huge Brain Organoid](images/huge_brain_organoid.png)
-1. **Parallel Computing Server & Cloud Computing**: Utilizing brain organoids for large-scale parallel computing and cloud services.
-2. **AI Programming (Cloud, OSS)**: Developing AI programs that leverage the unique capabilities of brain organoids.
-3. **Brain USB (I/O for Brain)**: Creating interfaces that allow direct input and output with brain organoids.
-4. **Beating Psychological Diseases**: Using brain organoids to understand and develop treatments for psychological diseases.
-5. **Complete AI Tasks**: Achieving advanced AI tasks, potentially leading to Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI).
+
+
+1. **Parallel Computing Server & Cloud Computing**: Utilizing brain organoids for large-scale parallel computing and cloud services. By creating large, parallelized brain organoids, we will achieve computational power that rivals or exceeds human intelligence (AGI: Artificial General Intelligence) and potentially even superintelligent systems (ASI: Artificial Super Intelligence).
+   - **Achieving AGI**: By scaling up the size and complexity of brain organoids, we will simulate neural networks that are comparable to the human brain in terms of processing power and efficiency. This involves creating extensive neural connections and optimizing them for various cognitive tasks.
+   - **Transitioning to ASI**: Once AGI is achieved, further enhancements will be made by increasing the parallel processing capabilities, integrating advanced learning algorithms, and continually expanding the neural network infrastructure. This will allow the system to surpass human cognitive abilities and achieve ASI.
+
+2. **AI Programming**: Developing AI programs that leverage the unique capabilities of brain organoids, including advanced pattern recognition and decision-making processes.
+
+3. **Brain USB (I/O for Brain)**: Creating interfaces that allow direct input and output with brain organoids, which could revolutionize how we interact with computational systems.
+
+4. **Beating Psychological Diseases**: Using brain organoids to understand and develop treatments for psychological diseases. By studying the brain-like structures, researchers can gain insights into mental health conditions and develop new therapeutic approaches.
 
 
 ## Contact
